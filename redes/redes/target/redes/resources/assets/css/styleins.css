@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  header{
+      background: #1E7A74;
+      display: flex;
+  }
+  .logo-name{
+    display: flex;
+    margin-left: 30px;
+}
+
+.logo-name .nombre  {
+    margin: 20px 10px;
+    display: flex;
+    padding-left: 10px;
+    color: #ffffff;
+}
+.logo img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+.boton{
+    margin-left: 50px;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+    margin-top: 20px;
+    padding: 5px 2px 5px 15px;
+    background:#02ABA0;
+}
+.botoon{
+    margin-left: 50px;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+    margin-top: 20px;
+    padding: 5px 2px 5px 15px;
+    background:#02ABA0;
+}
+.boton a{
+    color: rgb(255, 255, 255);
+    text-decoration: none; 
+ }
+
+ .public{
+    margin-left: 100px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    padding: 5px 2px 5px 15px;
+    background: #02ABA0;
+}
+.public a{
+    color: rgb(255, 255, 255);
+    text-decoration: none; 
+ }
+ .eli{
+    margin-left: 120px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    padding: 5px 2px 5px 15px;
+    background: #02ABA0;
+}
+.eli a{
+    color: rgb(255, 255, 255);
+    text-decoration: none; 
+ }
+ .buscar{
+    margin-left: 140px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    padding: 5px 2px 5px 15px;
+    background: #02ABA0;
+}
+.buscar a{
+    color: rgb(255, 255, 255);
+    text-decoration: none; 
+}
+
+.titulo img{
+    margin-left: 200px;
+    height: 700px;
+    margin-top: 10px;
+
+}
+

@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    background: #1E7A74;
+    display: flex;
+}
+
+.logo-name{
+    display: flex;
+    margin-left: 30px;
+}
+
+.logo-name .nombre  {
+    margin: 20px 10px;
+    display: flex;
+    padding-left: 10px;
+    color: #ffffff;
+}
+
+.logo img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+
+.boton{
+    margin-left: 1000px;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+    margin-top: 20px;
+    padding: 5px 2px 5px 15px;
+    background: #02ABA0;
+}
+ .boton a{
+    color: rgb(255, 255, 255);
+    text-decoration: none; 
+ }
+
+ 
+.instagram{
+     background-color: #02ABA0;
+     color: black;
+     display: flex;
+    height: 450px;
+}
+
+.insta h1{
+    text-align: left;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-top: 40px ;
+    margin-left: 50px;
+}
+
+.insta p{
+    width: 300px;
+    font-size:30px;
+    line-height: 25px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.face h1{
+    text-align: left;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-top:40px ;
+    margin-left: 90px;
+}
+.face p{
+    width: 300px;
+    font-size:30px;
+    line-height: 25px;
+    margin-left: 90px;
+    margin-top: 10px;
+
+}
+
+.titulo img{
+    margin-left: 250px;
+    height: 400px;
+    margin-top: 30px;
+}
+
+.imagenes{
+    display: flex;
+    background-color: #02ABA0;
+}
+.img2 img{
+    margin-left: 490px;
+    height: 100px;
+    margin-top: 20px;
+    background-color: #02ABA0;
+}
+
+.img3 img{
+    margin-left: 290px;
+    height: 145px;
+    background-color: #02ABA0;
+}
+
+
